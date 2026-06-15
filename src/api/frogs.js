@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api";
+const API_URL = "https://swamp-back.onrender.com/api";
 
 export async function createFrog(name) {
   const response = await fetch(`${API_URL}/frogs`, {

@@ -48,7 +48,7 @@ function Home() {
       </button>
 
       <img
-        src="../public/images/frog.png"
+        src="../public/images/Frog.png"
         alt="frog"
         className="w-64"
       />
